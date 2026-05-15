@@ -1,0 +1,12 @@
+{
+  "name": "nodejs-ecr-ecs-app",
+  "version": "1.0.0",
+  "description": "Containerized Node.js application deployed using Docker, Amazon ECR, and Amazon ECS",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}

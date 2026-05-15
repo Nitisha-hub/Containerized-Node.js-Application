@@ -170,7 +170,7 @@ docker push <account-id>.dkr.ecr.<region>.amazonaws.com/nodejs-app
 ---
 
 ## 🚀 ECS Service Running
-(Add ECS service screenshot)
+<img width="100%" alt="ECS Service Running" src="screenshots/ecs_service.png">
 
 ---
 

@@ -175,7 +175,7 @@ docker push <account-id>.dkr.ecr.<region>.amazonaws.com/nodejs-app
 ---
 
 ## 🌐 Node.js Application Output
-(Add application output screenshot)
+<img width="100%" alt="Node.js Application Output" src="screenshots/output.png">
 
 ---
 

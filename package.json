@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "Containerized Node.js application deployed using Docker, Amazon ECR, and Amazon ECS",
   "main": "app.js",
-  "scripts": {
+  "scripts": {                       
     "start": "node app.js"
   },
   "dependencies": {

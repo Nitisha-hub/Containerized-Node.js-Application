@@ -2,7 +2,7 @@ const express = require('express');
 const app = express();
 
 app.get('/', (req, res) => {
-    res.send('Node.js App Running on ECS');
+    res.send('Node.js App Running on ECS');             
 });
 
 const PORT = 3000;
